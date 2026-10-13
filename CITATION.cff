@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use these datasets in your research, please cite the companion paper."
+authors:
+  - family-names: "Shatnawi"
+    given-names: "Omar"
+    affiliation: "Al al-Bayt University, Mafraq, Jordan"
+    orcid: "https://orcid.org/0000-0001-6446-3547"
+title: "2D-SRM Replication Dataset"
+abstract: "Replication dataset for Two-Dimensional Software Reliability Modelling in Distributed Development Environments. Contains the Ohba PL/I and Musa T1 benchmark datasets in CSV format."
+version: 1.0.0
+date-released: 2026-10-13
+license: CC-BY-4.0
+repository-code: "https://github.com/dromali123-lang/2D-SRM-Replication"
