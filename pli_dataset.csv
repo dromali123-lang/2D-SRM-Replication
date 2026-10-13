@@ -1,6 +1,4 @@
-Test Time,Cumulative execution time,Cumulative
-(week),(CPU hour),faults
-Si,Ui,Mi
+Test time (week),Cumulative execution time (CPU hour),Cumulative faults
 1,2.45,15
 2,4.9,44
 3,6.86,66
